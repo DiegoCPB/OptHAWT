@@ -8,7 +8,7 @@ http://www.monografias.poli.ufrj.br/monografias/monopoli10027430.pdf
 
 # OptHAWT
 
-Uma plataforma de otimização aerodinâmica de Aerogeradores de Eixo Horizontal utilizando XFoil, Teorima de Elementos de Pá e otimização por Enxame de Partículas.
+Uma plataforma de otimização aerodinâmica de Aerogeradores de Eixo Horizontal utilizando XFoil, Teoria de Elementos de Pá e otimização por Enxame de Partículas.
 
 Todas as referências para a teoria e estudos de caso estão disponíveis em Português,em 
 http://www.monografias.poli.ufrj.br/monografias/monopoli10027430.pdf
